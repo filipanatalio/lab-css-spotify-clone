@@ -6,3 +6,213 @@ Green: #00B172
 White: #FFF
 
 */
+
+body {
+}
+
+nav {
+  position: relative;
+  width: 200px;
+  height: 50px;
+  padding: ;
+  border: ;
+  margin-left: 1%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  display: flex;
+}
+
+.list-right {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  margin-left: 460%;
+  margin-top: 10%;
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.music-for-everyone {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.music-img {
+  width: 1250px;
+  height: 700px;
+}
+h1 {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 4rem;
+}
+
+h2 {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.8rem;
+}
+
+.middle {
+  position: relative;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  text-align: center;
+  font-size: 2rem;
+}
+
+hr.one {
+  display: block;
+  width: 250px;
+  height: 3.5px;
+  background-color: #00b172;
+  border-style: hidden;
+  margin-top: 0.3%;
+}
+
+.millions-hd-stream {
+  margin: 0 20px;
+  position: relative;
+  text-align: center;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.millions {
+  margin-right: 120px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.sound-img {
+  height: 100px;
+}
+.hd {
+  margin-right: 100px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.song-img {
+  height: 100px;
+}
+
+.stream {
+  margin: 15px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mobile-img {
+  height: 100px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+h4 {
+  font-size: 2rem;
+  color: #00b172;
+  margin-bottom: 1rem;
+}
+p.one {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+#green {
+  background-color: #00b172;
+  position: relative;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 4rem;
+}
+
+.left-side {
+  margin-right: 2rem;
+}
+.search {
+  text-align: left;
+  margin-top: 0;
+}
+
+.browse {
+  text-align: left;
+}
+.discover {
+  text-align: left;
+}
+
+h5 {
+  color: white;
+  font-size: 2rem;
+}
+
+hr.two {
+  background-color: white;
+  display: block;
+  width: 383px;
+  height: 3.5px;
+  border-style: hidden;
+  margin-top: 0.3%;
+  margin-left: 0;
+}
+
+h6 {
+  color: white;
+  font-size: 1.7rem;
+  display: flex;
+  justify-content: left;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+p.two {
+  font-size: 1.2rem;
+  color: white;
+  display: flex;
+
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.spotify-middle-img {
+  height: 8rem;
+  width: 8rem;
+  display: flex;
+
+  margin-top: 15%;
+  margin-right: 10rem;
+}
+
+.kanye-img {
+  margin-top: 6rem;
+  margin-bottom: 6rem;
+  height: 30rem;
+  width: 18rem;
+}
